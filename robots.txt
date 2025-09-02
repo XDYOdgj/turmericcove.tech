@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://turmericcove.tech/sitemap.xml
